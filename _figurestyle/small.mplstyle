@@ -1,0 +1,30 @@
+axes.titlesize : 9
+axes.labelsize : 7        #9
+axes.linewidth: 0.5
+lines.linewidth: 1.5
+lines.markersize : 4
+xtick.major.size     : 2 #3     # major tick size in points
+ytick.major.size     : 2 #3     # major tick size in points
+xtick.major.pad      : 2 #3
+ytick.major.pad      : 2 #3
+xtick.labelsize : 6       #8
+ytick.labelsize : 6       #8
+legend.fontsize:  6       #7
+legend.title_fontsize: 6  #8
+font.size: 8
+
+patch.linewidth : 0.5
+
+## FIGURE
+# See http://matplotlib.sourceforge.net/api/figure_api.html#matplotlib.figure.Figure
+figure.figsize   : 4, 4    # figure size in inches
+figure.dpi       : 300      # figure dots per inch
+
+axes.spines.right : False
+
+axes.spines.top : False
+
+
+# Remove padding around figure
+savefig.bbox : tight
+savefig.pad_inches : 0.01

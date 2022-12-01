@@ -2,3 +2,6 @@
 	path = end_to_end_optimization
 	url = https://github.com/neuralcodinglab/viseon/
 	branch = dynaphos-paper
+[submodule "dynaphos-core"]
+	path = dynaphos-core
+	url = https://github.com/neuralcodinglab/dynaphos/
